@@ -1,0 +1,16 @@
+{
+  "name": "professional-testing",
+  "version": "1.0.0",
+  "description": "backend professional setup learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "meow"
+  ],
+  "author": "Ponnada Kesava Sriram",
+  "license": "ISC"
+}
